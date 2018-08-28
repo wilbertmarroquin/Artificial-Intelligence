@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1474756029 source:c:\users\wilbert\desktop\genetico\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<cmath>
+	"Genetico.h"
+
+1474757049 c:\users\wilbert\desktop\genetico\genetico.h
+	<vector>
+	<bitset>
+
+1475021132 source:c:\users\alumno-g\desktop\inteligenciaartificial-master\genetico\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<cmath>
+	"Genetico.h"
+
+1475021125 c:\users\alumno-g\desktop\inteligenciaartificial-master\genetico\genetico.h
+	<vector>
+	<bitset>
+
+1475021134 source:d:\repos\inteligenciaartificial\genetico\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<cmath>
+	"Genetico.h"
+
+1475021126 d:\repos\inteligenciaartificial\genetico\genetico.h
+	<vector>
+	<bitset>
+
